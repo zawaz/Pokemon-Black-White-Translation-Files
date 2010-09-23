@@ -1,25 +1,25 @@
-すてきなばしょ
-とおいばしょ
-ポケモンえいが
-ポケモンえいが１０
-ポケモンえいが１１
-ポケモンえいが１２
-ポケモンえいが１３
-ポケモンえいが１４
-ポケモンえいが１５
-ポケモンえいが１６
-ポケモンえいが１７
-ポケモンえいが１８
-ポケモンえいが１９
-ポケモンえいが２０
-ポケモンセンター
-ポケモンアニメ
-ＰＣトウキョー
-ＰＣオーサカ
-ＰＣフクオカ
-ＰＣナゴヤ
-ＰＣサッポロ
-ＰＣヨコハマ
+Nice Place
+Faraway Place
+Pokemon Movie
+Pokemon Movie１０
+Pokemon Movie１１
+Pokemon Movie１２
+Pokemon Movie１３
+Pokemon Movie１４
+Pokemon Movie１５
+Pokemon Movie１６
+Pokemon Movie１７
+Pokemon Movie１８
+Pokemon Movie１９
+Pokemon Movie２０
+Pokemon
+Pokemon
+Tokyo - Tokyo PC
+Osaka PC
+Fukuoka PC
+Nagoya PC
+Sapporo PC
+Yokohama PC
 WCS
 WCS２０１０
 WCS２０１１
@@ -56,54 +56,54 @@ VGE２０１７
 VGE２０１８
 VGE２０１９
 VGE２０２０
-ポケモンイベント
-バトルたいかい
-ゲームイベント
-だいすきクラブ
-ポケモンサンデー
-チャレンジひろば
-バトルチャレンジ
-トレーナーズコート
-バトルツアー
-コンサート
-Wi-Fiプレゼント
-ポケモンレンジャー
-レンジャーユニオン
+Pokemon Event
+Battle Games
+Game Events
+Daisuki Club
+Pokemonsande
+Plaza Challenge
+Battle Challenge
+Torenazukoto
+Battlefield Tours
+Concert
+Wi-Fi Gifts
+Pokemon
+Renjayunion
 PBR
 PDW
-ポケモンイベント１０
-ポケモンイベント１１
-ポケモンイベント１２
-ポケモンイベント１３
-ポケモンイベント１４
-ポケモンイベント１５
-ポケモンイベント１６
-ポケモンイベント１７
-ポケモンイベント１８
-ポケモンイベント１９
-ポケモンイベント２０
-ポケモンフェスタ
-ポケモンフェスタ１０
-ポケモンフェスタ１１
-ポケモンフェスタ１２
-ポケモンフェスタ１３
-ポケモンフェスタ１４
-ポケモンフェスタ１５
-ポケモンフェスタ１６
-ポケモンフェスタ１７
-ポケモンフェスタ１８
-ポケモンフェスタ１９
-ポケモンフェスタ２０
-ポケパーク
-ポケパーク１０
-ポケパーク１１
-ポケパーク１２
-ポケパーク１３
-ポケパーク１４
-ポケパーク１５
-ポケパーク１６
-ポケパーク１７
-ポケパーク１８
-ポケパーク１９
-ポケパーク２０
-イベントかいじょう
+Pokemon Event 10
+Pokemon Event 11
+Pokemon Event 12
+Pokemon Event 13
+Pokemon Event 14
+Pokemon Event 15
+Pokemon Event 16
+Pokemon Event 17
+Pokemon Event 18
+Pokemon Event 19
+Pokemon Event 20
+Pokemon Fiesta
+Pokemon Fiesta 10
+Pokemon Fiesta 11
+Pokemon Fiesta 12
+Pokemon Fiesta 13
+Pokemon Fiesta 14
+Pokemon Fiesta 15
+Pokemon Fiesta 16
+Pokemon Fiesta 17
+Pokemon Fiesta 18
+Pokemon Fiesta 19
+Pokemon Fiesta 20
+Pokpark
+Pokpark 10
+Pokpark 11
+Pokpark 12
+Pokpark 13
+Pokpark 14
+Pokpark 15
+Pokpark 16
+Pokpark 17
+Pokpark 18
+Pokpark 19
+Pokpark 20
+Event site
