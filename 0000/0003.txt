@@ -10,7 +10,7 @@ No
 Your video is now saving.\xfffePlease wait!
 Your match has been saved.
 There was an error\xfffeVideo couldn't be saved.
-あいてを　まっています\xfffeしばらく　おまち　ください！
+Waiting for an opponent\xfffePlease wait a moment！
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
 You cannot record a match with this opponent.
 You cannot record this match.
